@@ -28,6 +28,9 @@ Mill, prospect and disenchant your bags with one button or keybind – one click
    The folder name must stay exactly like this (no `-main` suffix).
 3. Restart the game or type `/reload`.
 
+## Screenshot
+![AutoDestroy items window in game](screenshots/autodestroy-items.png)
+
 ## License
 MIT – see [LICENSE](LICENSE).
 
