@@ -1,0 +1,4 @@
+<Bindings>
+	<Binding name="CLICK AutoDestroyButton:Key" header="AUTODESTROY">
+	</Binding>
+</Bindings>

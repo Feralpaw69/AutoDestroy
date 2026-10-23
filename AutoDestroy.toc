@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AutoDestroy
+## Notes: Mill, prospect and disenchant with one click or keypress per item. /ad for options.
+## Author: feralpaw
+## Version: 1.7
+## SavedVariables: AutoDestroyDB
+
+AutoDestroy.lua
